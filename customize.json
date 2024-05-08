@@ -1,14 +1,16 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
+  "greeting": "Hi",
+  "name": "Shalini",
+  "greetingText": "I really want to greet you on this day",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "textInChatBox": "𝐇𝐚𝐩𝐩𝐲 𝐛𝐢𝐫𝐭𝐡𝐝𝐚𝐲 Shalini ..!! 
+             ♥️💖🥰
+𝐒𝐭𝐚𝐲 𝐛𝐥𝐞𝐬𝐬𝐞𝐝 𝐚𝐧𝐝 𝐡𝐚𝐯𝐞 𝐚 𝐟𝐚𝐛𝐮𝐥𝐨𝐮𝐬 𝐲𝐞𝐚𝐫 𝐚𝐡𝐞𝐚𝐝....",
   "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
+  "text2": "This is not enough for someone like you",
+  "text3": "Shalini",
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
@@ -17,7 +19,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "And finally you exited teen!before me😂!.",
+  "replayText": "I hope you like it",
   "outroSmiley": ":)"
 }
